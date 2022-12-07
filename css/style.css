@@ -1,0 +1,28 @@
+.titulo {
+    margin-bottom: 40px;
+    letter-spacing: 1px;
+}
+
+.formulario{
+    background-color: rgba(255, 255, 255, 0.897);
+    font-family: 'Roboto', sans-serif;
+    margin: 50px auto;
+    text-align: center;
+    padding: 5% 15%;
+}
+
+.formulario{
+    width: 40%;
+    padding: 20px 5px;
+    border: 2px black solid;
+    border-radius: 10px;
+}
+
+.question {
+    font-weight: bold;
+    text-align: right;
+}
+
+.btn{
+    margin: 10px auto;
+}
